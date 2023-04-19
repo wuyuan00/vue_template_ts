@@ -6,6 +6,7 @@
 //   plugins: [vue()],
 // })
 
+//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
 import { defineConfig } from 'vite'
 import { resolve } from 'path'
 import vue from '@vitejs/plugin-vue'
